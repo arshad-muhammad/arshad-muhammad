@@ -12,7 +12,7 @@
  
  🔭 I’m currently mastering python
 
-💬 Ask me about **Python, JavaScript, React.Js, Firebase... or anything [here](https://github.com/salesp07/arshad-muhammad/issues)**
+💬 Ask me about **Python, JavaScript, React.Js, Firebase... or anything [here](https://github.com/arshad-muhammad/arshad-muhammad/issues)**
 
 ⚡ **Think Big**
 
@@ -38,12 +38,3 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
