@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Arshad!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m an Aspiring Software Engineer
+ 🔭 I’m currently mastering python
 
 💬 Ask me about **Python, JavaScript, React.Js, Firebase... or anything [here](https://github.com/salesp07/arshad-muhammad/issues)**
 
