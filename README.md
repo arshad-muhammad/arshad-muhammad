@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently mastering python
+🔭 Currently honing my Python skills
 
-💬 Ask me about **Python, JavaScript, React.Js, Firebase... or anything [here](https://github.com/arshad-muhammad/arshad-muhammad/issues)**
+💬 Feel free to ask me about Python, JavaScript, React.js, Firebase, or anything tech-related!
 
-⚡ **Think Big**
+⚡ Dream Big, Think Bigger!
 
  </div>
  
