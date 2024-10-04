@@ -12,7 +12,7 @@
  
 🔭 Currently honing my Python skills
 
-💬 Feel free to ask me about Python, JavaScript, React.js, Firebase, or anything tech-related! [here](https://instgram.com/)
+💬 Feel free to ask me about Python, JavaScript, React.js, Firebase, or anything tech-related! [here](https://github.com/arshad-muhammad/arshad-muhammad/issues)
 
 ⚡ Dream Big, Think Bigger!
 
