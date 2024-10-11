@@ -1,3 +1,8 @@
+<style>
+    .box01{
+         transform: rotate(45deg) translate(50px, 50px);
+    }
+</style>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arshad-muhammad.arshad-muhammad" />
 
 <h1 align="center">
@@ -36,6 +41,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" class="box01" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase" /><br>
 </div>
