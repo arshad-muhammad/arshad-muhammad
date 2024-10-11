@@ -1,8 +1,4 @@
-<style>
-    .box01{
-         transform: rotate(45deg) translate(50px, 50px);
-    }
-</style>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arshad-muhammad.arshad-muhammad" />
 
 <h1 align="center">
