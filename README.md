@@ -76,11 +76,15 @@
 
 
 
-<img src="https://streak-stats.demolab.com?user=arshad-muhammad&theme=tokyonight&hide_border=true&background=0d1117&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arshad-muhammad&theme=tokyonight&hide_border=true&background=0d1117&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" alt="GitHub Streak" />
+</p>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-muhammad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1D9E75&line=1D9E75&point=EF9F27" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-muhammad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1D9E75&line=1D9E75&point=EF9F27" alt="Activity Graph" />
+</p>
 
 ---
 
