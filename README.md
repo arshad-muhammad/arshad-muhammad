@@ -63,13 +63,13 @@
 ---
 
 ## &nbsp; Stack & Tools
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,firebase,html,css,tailwind,figma,git,github,vscode&theme=dark" />
 </p>
 
-> 🐍 **Python** and ⚛️ **React.js** are my primary weapons of choice.
-
+<p align="center">
+  🐍 <b>Python</b> and ⚛️ <b>React.js</b> are my primary weapons of choice.
+</p>
 ---
 
 ## &nbsp; GitHub Stats
