@@ -74,16 +74,7 @@
 
 ## &nbsp; GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arshad-muhammad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b8b8b&icon_color=1D9E75&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-muhammad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b8b8b" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
 
 <img src="https://streak-stats.demolab.com?user=arshad-muhammad&theme=tokyonight&hide_border=true&background=0d1117&stroke=1D9E75&ring=1D9E75&fire=EF9F27&currStreakLabel=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b" alt="GitHub Streak" />
 
