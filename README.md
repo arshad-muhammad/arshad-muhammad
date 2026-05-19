@@ -9,11 +9,11 @@
 ```
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&height=80&lines=Muhammad+Arshad.;Builder.+Learner.+Creator." alt="Muhammad Arshad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&height=80&lines=Muhammad+Arshad.;Builder.+Learner.+Creator." alt="Muhammad Arshad" />
 </h1>
 
 <p align="center">
-  Building things for the web — one commit at a time.<br/>
+  Building things for the web - one commit at a time.<br/>
   Python enthusiast &nbsp;·&nbsp; React builder &nbsp;·&nbsp; Lifelong learner.
 </p>
 
