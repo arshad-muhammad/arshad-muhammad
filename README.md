@@ -22,7 +22,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/based%20in-India-378ADD?style=flat-square&labelColor=0a0a0a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/focus-Python%20%7C%20React%20%7C%20Firebase-EF9F27?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/focus-Python%20%7C%20React%20%7C%20NextJs%20%7C%20Firebase-EF9F27?style=flat-square&labelColor=0a0a0a" />
 </div>
 
 ---
