@@ -70,7 +70,7 @@
 <p align="center">
   🐍 <b>Python</b> and ⚛️ <b>React.js</b> are my primary weapons of choice.
 </p>
----
+
 
 ## &nbsp; GitHub Stats
 
