@@ -29,12 +29,14 @@
 
 ## &nbsp; About me
 
-| | |
-|---|---|
-| 🔭 &nbsp; **Currently** | Honing my Python skills |
-| 💬 &nbsp; **Ask me about** | Python, JavaScript, React.js, Firebase — or anything tech |
-| 💡 &nbsp; **Questions?** | Drop them [here](https://github.com/arshad-muhammad/arshad-muhammad/issues) |
-| ⚡ &nbsp; **Motto** | *Dream Big, Think Bigger* |
+<div align="center">
+<img src="https://img.shields.io/badge/🔭%20Currently-Honing%20my%20Python%20skills-0d1117?style=for-the-badge&labelColor=0d1117&color=1D9E75" />
+<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Python%20·%20JavaScript%20·%20React%20·%20Firebase-0d1117?style=for-the-badge&labelColor=0d1117&color=378ADD" />
+<a href="https://github.com/arshad-muhammad/arshad-muhammad/issues">
+  <img src="https://img.shields.io/badge/💡%20Got%20a%20question%3F-Let's%20talk%20→-0d1117?style=for-the-badge&labelColor=0d1117&color=EF9F27" />
+</a>
+<img src="https://img.shields.io/badge/⚡%20Motto-Dream%20Big%2C%20Think%20Bigger-0d1117?style=for-the-badge&labelColor=0d1117&color=D4537E" />
+</div>
 
 ---
 
