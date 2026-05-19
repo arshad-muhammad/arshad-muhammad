@@ -42,16 +42,19 @@
 
 ## &nbsp; Connect
 
-<p>
+<p align="center">
   <a href="mailto:muhd.arshadra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/hy-arshad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://instagram.com/arshadx0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://arshad-muhammad.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=1D9E75" />
   </a>
