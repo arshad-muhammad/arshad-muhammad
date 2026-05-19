@@ -1,7 +1,8 @@
 
+<!-- DARK BLOOD RED / LUXURY CYBER THEME -->
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arshad-muhammad.arshad-muhammad&style=flat-square&color=FF4D6D" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arshad-muhammad.arshad-muhammad&style=flat-square&color=8B0000" />
 </div>
 
 ---
@@ -13,7 +14,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=FF4D6D&center=true&vCenter=true&width=720&height=100&lines=Muhammad+Arshad.;Builder.+Learner.+Creator." alt="Muhammad Arshad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=8B0000&center=true&vCenter=true&width=720&height=100&lines=Muhammad+Arshad.;Builder.+Learner.+Creator." alt="Muhammad Arshad" />
 </h1>
 
 <p align="center">
@@ -22,11 +23,11 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20collaborate-FF4D6D?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/status-open%20to%20collaborate-8B0000?style=flat-square&labelColor=050505" />
   &nbsp;
-  <img src="https://img.shields.io/badge/based%20in-India-8B5CF6?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/based%20in-India-6B7280?style=flat-square&labelColor=050505" />
   &nbsp;
-  <img src="https://img.shields.io/badge/focus-Python%20%7C%20React%20%7C%20NextJs%20%7C%20Firebase-FFB703?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/focus-Python%20%7C%20React%20%7C%20NextJs%20%7C%20Firebase-B8860B?style=flat-square&labelColor=050505" />
 </div>
 
 ---
@@ -34,12 +35,12 @@
 ## &nbsp; About me
 
 <div align="center">
-<img src="https://img.shields.io/badge/🔭%20Currently-Honing%20my%20Python%20skills-0d1117?style=for-the-badge&labelColor=0d1117&color=FF4D6D" />
-<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Python%20·%20JavaScript%20·%20React%20·%20Firebase-0d1117?style=for-the-badge&labelColor=0d1117&color=8B5CF6" />
+<img src="https://img.shields.io/badge/🔭%20Currently-Honing%20my%20Python%20skills-0d1117?style=for-the-badge&labelColor=0d1117&color=8B0000" />
+<img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Python%20·%20JavaScript%20·%20React%20·%20Firebase-0d1117?style=for-the-badge&labelColor=0d1117&color=4B5563" />
 <a href="https://github.com/arshad-muhammad/arshad-muhammad/issues">
-  <img src="https://img.shields.io/badge/💡%20Got%20a%20question%3F-Let's%20talk%20→-0d1117?style=for-the-badge&labelColor=0d1117&color=FFB703" />
+  <img src="https://img.shields.io/badge/💡%20Got%20a%20question%3F-Let's%20talk%20→-0d1117?style=for-the-badge&labelColor=0d1117&color=B8860B" />
 </a>
-<img src="https://img.shields.io/badge/⚡%20Motto-Dream%20Big%2C%20Think%20Bigger-0d1117?style=for-the-badge&labelColor=0d1117&color=E11D48" />
+<img src="https://img.shields.io/badge/⚡%20Motto-Dream%20Big%2C%20Think%20Bigger-0d1117?style=for-the-badge&labelColor=0d1117&color=550000" />
 </div>
 
 ---
@@ -48,19 +49,19 @@
 
 <p align="center">
   <a href="mailto:muhd.arshadra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=8B0000" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/hy-arshad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=8B0000" />
   </a>
   &nbsp;
   <a href="https://instagram.com/arshadx0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=FF4D6D" />
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=8B0000" />
   </a>
   &nbsp;
   <a href="https://arshad-muhammad.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=FF4D6D" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=8B0000" />
   </a>
 </p>
 
@@ -72,20 +73,20 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,react,firebase,html,css,tailwind,figma,git,github,vscode&theme=dark" />
 </p>
 
-> 🩸 Building futuristic digital experiences with code.
+> 🩸 Engineering dark futuristic experiences with precision.
 
 ---
 
 ## &nbsp; GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arshad-muhammad&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF4D6D&ring=FF4D6D&fire=FFB703&currStreakLabel=B8B8B8&sideLabels=B8B8B8&dates=B8B8B8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=arshad-muhammad&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B0000&ring=8B0000&fire=B8860B&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-muhammad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF4D6D&line=FF4D6D&point=FFB703" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-muhammad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B0000&line=8B0000&point=B8860B" alt="Activity Graph" />
 </p>
 
 ---
@@ -93,4 +94,3 @@
 <p align="center">
   <code>crafted with &lt;/&gt; by arshad-muhammad</code>
 </p>
-
