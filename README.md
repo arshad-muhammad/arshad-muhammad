@@ -17,7 +17,7 @@
   </a>
 
   <p align="center">
-    <b>Building elegant, high-performance web applications — one line of clean code at a time.</b>
+    <b>Building elegant, high-performance web applications - one line of clean code at a time.</b>
   </p>
 
   <!-- Quick Action Badges -->
@@ -218,7 +218,7 @@ Motto: Dream Big, Code Clean, Deliver Value
   <summary><b>💡 Click to reveal a random developer thought</b></summary>
   <br/>
   <blockquote>
-    "First, solve the problem. Then, write the code." — <i>John Johnson</i>
+    "First, solve the problem. Then, write the code." - <i>John Johnson</i>
   </blockquote>
 </details>
 
