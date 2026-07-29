@@ -49,12 +49,12 @@
 
 ### ⚡ About Me
 
-- 🔭 **Currently Building**: Scalable web applications & modern API services.
-- 💡 **Core Expertise**: Python systems, React/Next.js frontends, and Cloud architectures.
-- 🌱 **Learning & Exploring**: Advanced AI agent integrations & DevOps workflows.
-- 💬 **Ask Me About**: `Python`, `JavaScript`, `React`, `Next.js`, `Firebase`, `Web Performance`.
-- 📍 **Location**: India 🇮🇳
-- ⚡ **Philosophy**: *Simplicity is the prerequisite for reliability.*
+- **Currently Building**: Scalable web applications & modern API services.
+- **Core Expertise**: Python systems, React/Next.js frontends, and Cloud architectures.
+- **Learning & Exploring**: Advanced AI agent integrations & DevOps workflows.
+- **Ask Me About**: `Python`, `JavaScript`, `React`, `Next.js`, `Firebase`, `Web Performance`.
+- **Location**: India 🇮🇳
+- **Philosophy**: *Simplicity is the prerequisite for reliability.*
 
     </td>
     <td width="50%" valign="top">
@@ -66,7 +66,7 @@ Name: Muhammad Arshad
 Role: Creative Technologist & Full-Stack Builder
 Passions: Web Architecture, Clean UI/UX, AI Tools
 Status: Open for collaborations & impactful roles
-Primary Weapons: Python 🐍 & React ⚛️
+Primary Weapons: Python 🐍 & React, Nextjs⚛️
 Motto: Dream Big, Code Clean, Deliver Value
 ```
 
@@ -127,22 +127,10 @@ Motto: Dream Big, Code Clean, Deliver Value
 <h2 align="center">📈 GitHub Analytics & Activity</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arshad-muhammad&show_icons=true&locale=en&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&hide_border=false&count_private=true" alt="Muhammad's GitHub Stats" height="175" />
-      </td>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-muhammad&layout=compact&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&hide_border=false" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
+  
 
   <br/>
-
-  <img src="https://streak-stats.demolab.com?user=arshad-muhammad&theme=dark&background=0d1117&border=30363d&stroke=2dd4bf&ring=38bdf8&fire=f97316&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=false" alt="GitHub Streak" width="95%" />
-
-  <br/><br/>
+<br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-muhammad&theme=react-dark&bg_color=0d1117&color=2dd4bf&line=38bdf8&point=818cf8&area=true&hide_border=false" alt="Activity Graph" width="95%" />
 </div>
